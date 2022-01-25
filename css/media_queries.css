@@ -1,6 +1,6 @@
 /* Media queries */
 
-@media (max-width:1200px) {
+@media (max-width:1150px) {
     section {
         padding: 3rem 5%;
     }
